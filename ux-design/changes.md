@@ -1,3 +1,3 @@
-// Your recommended changes go here
+Hello this is Victoria Poliakova submitting Homework for UX Designer role.
 
-## Content (1-2 paragraphs)
+
